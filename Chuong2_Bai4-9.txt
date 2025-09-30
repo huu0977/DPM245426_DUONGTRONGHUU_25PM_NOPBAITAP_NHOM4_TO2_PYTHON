@@ -6,6 +6,9 @@ kiểu dữ liệu cơ bản:
 -boolean
 -string
 5.
+ ghi chú dòng đơn sử dụng ký tự # và ghi chú đa dòng,thường là các chuỗi ký tự nhiều dòng
+ (docstrings) được bao quanh bởi ba dấu nháy đơn hoặc ba dấu nháy kép, được sử dụng để mô
+ tả hàm, lớp hoặc module.
 6.
 -"/" chia 2 giá trị số
 -"//" chia lấy nguyên
@@ -62,3 +65,11 @@ cách bắt lỗi
 7.0 + (-0.1666...) = 6.8333...
 (r) 3 * (d1 + d2) * (d1 - d3)
 3 * 7.0 * 2.5 = 52.5
+10.
+(a) x += 1
+(b) x /= 2
+(c) x -= 1
+(d) x += y
+(e) x -= (y + 7)
+(f) x *= 2
+(g) number_of_closed_cases += 2 * ncc
