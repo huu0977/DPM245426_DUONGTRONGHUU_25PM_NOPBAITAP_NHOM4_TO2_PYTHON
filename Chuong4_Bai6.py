@@ -1,0 +1,1 @@
+#những giá trị có thể xuất hiện trong randrange(0,100) là : 0,34,99
